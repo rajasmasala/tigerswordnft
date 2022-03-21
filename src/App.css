@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.multiposition-stops {
+  background-color: #cb7119;
+  background: linear-gradient(to bottom left,
+    #cb7119 5%,
+    white 10%, 
+     #cb7119 15%, 
+     white 20%, 
+     #cb7119 30%, 
+     white 35%, 
+     #cb7119 48%, 
+     black 52%, 
+     #cb7119 60%, 
+     #f6c1b2 70%, 
+     lime 72%, 
+     #cb7119 75%, 
+     white 90%, 
+     black 100% );
+}
