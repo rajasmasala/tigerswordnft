@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tigersword-nft/static/css/main.cde31802.css",
+    "main.js": "/tigersword-nft/static/js/main.aa8cdb67.js",
+    "static/js/787.4ef66744.chunk.js": "/tigersword-nft/static/js/787.4ef66744.chunk.js",
+    "index.html": "/tigersword-nft/index.html",
+    "main.cde31802.css.map": "/tigersword-nft/static/css/main.cde31802.css.map",
+    "main.aa8cdb67.js.map": "/tigersword-nft/static/js/main.aa8cdb67.js.map",
+    "787.4ef66744.chunk.js.map": "/tigersword-nft/static/js/787.4ef66744.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde31802.css",
+    "static/js/main.aa8cdb67.js"
+  ]
+}
